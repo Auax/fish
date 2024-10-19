@@ -1,0 +1,16 @@
+C:\Users\ryux1\Desktop\fish\fish\bin\Release\fish.exe.config
+C:\Users\ryux1\Desktop\fish\fish\bin\Release\fish.exe
+C:\Users\ryux1\Desktop\fish\fish\bin\Release\fish.pdb
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.csproj.AssemblyReference.cache
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\MainWindow.g.cs
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\App.g.cs
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish_MarkupCompile.cache
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish_MarkupCompile.lref
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\MainWindow.baml
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.g.resources
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.Properties.Resources.resources
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.csproj.GenerateResource.cache
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.csproj.CoreCompileInputs.cache
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.exe
+C:\Users\ryux1\Desktop\fish\fish\obj\Release\fish.pdb
