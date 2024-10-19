@@ -7,4 +7,4 @@ Joke Windows app extracted from the meme
 To run download the project and build it or download the executable (*.exe*) file from the *releases* tab.
 
 # Why?
-Why not
+Fish
